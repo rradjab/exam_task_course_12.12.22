@@ -1,0 +1,17 @@
+1, 1, Ingilis Dili, 30, 6
+2, 1, Rus Dili, 40, 6
+3, 1, Alman Dili, 50, 6
+4, 2, Web proqramlashdirma, 200, 4
+5, 2, Desktop proqramlashdirma, 500, 8
+6, 2, Mobile proqramlashdirma, 300, 6
+7, 3, Mutexessis, 100, 2
+8, 3, Sistem Administratoru, 400, 3
+9, 4, Web, 250, 3
+10, 4, İnteryer, 150, 1.5
+11, 5, Ticaret, 200, 2.5
+12, 5, Tikinti, 50, 1
+13, 6, Ara mahnilari, 10, 0.5
+14, 6, Rep, 50, 1.5
+15, 6, Milli, 550, 12 
+16, 7, Fotoqraf, 150, 1.5
+17, 7, Ressam, 350, 3.5

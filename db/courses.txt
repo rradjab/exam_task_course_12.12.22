@@ -1,0 +1,7 @@
+1, dil
+2, proqramlashdirma
+3, IT
+4, dizayn
+5, biznes
+6, musiqi
+7, shekil
